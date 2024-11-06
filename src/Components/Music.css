@@ -1,0 +1,48 @@
+.mains{
+    background-color: black;
+}
+.cardbox{
+    display: grid;
+    
+    
+}
+.cold{
+    display: flex;
+    width:350px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px;
+}
+.mains{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 100px;
+    row-gap: 100px;
+    padding-top: 50px;
+
+}
+.Music{
+    display: grid;
+    background-color:black;
+}
+.card-title{
+    font-weight: bold;
+    padding:15px;
+}
+.card-date{
+    padding:15px;
+}
+.card-body{
+    padding:15px;
+}
+.col{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding:70px;
+}
