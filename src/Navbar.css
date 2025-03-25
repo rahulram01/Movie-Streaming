@@ -1,0 +1,36 @@
+/* Custom styles for the navbar */
+.navbar-custom {
+    background-color: #343a40; /* Change this to your desired background color */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .navbar-nav .nav-link,
+  .navbar-custom .navbar-nav .nav-item {
+    color: white; /* Change this to your desired text color */
+  }
+  
+  .navbar-custom .navbar-brand:hover,
+  .navbar-custom .navbar-nav .nav-link:hover,
+  .navbar-custom .navbar-nav .nav-item:hover {
+    color: #17a2b8; /* Change this to your desired hover color */
+  }
+  
+  .navbar-custom .navbar-toggler-icon {
+    background-color: white; /* Change this to your desired toggle button color */
+  }
+  
+  .navbar-custom .form-control {
+    border-color: white; /* Change this to your desired search input border color */
+  }
+  
+  .navbar-custom .btn-outline-success {
+    color: white; /* Change this to your desired search button text color */
+    border-color: white; /* Change this to your desired search button border color */
+  }
+  
+  .navbar-custom .btn-outline-success:hover {
+    color: #155724; /* Change this to your desired search button hover text color */
+    background-color: white; /* Change this to your desired search button hover background color */
+    border-color: white; /* Change this to your desired search button hover border color */
+  }
+  
